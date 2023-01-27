@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 # 📊 GitHub Stats:
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&theme=tokyonight&layout=compact)
+![BLuBin's github stats](https://github-readme-stats.vercel.app/api?username=BLuBin7&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLuBin7&theme=tokyonight&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BLuBin7&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BLuBin7&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
