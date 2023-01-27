@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="blubin.svg"></a>
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
+</p> -->
