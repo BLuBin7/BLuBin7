@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BLuBin7&theme=tokyonight&show_icons=true&hide=["issues"])<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BLuBin7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BLuBin7&theme=tokyonight&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BLuBin7&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BLuBin7&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
