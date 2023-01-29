@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm BLuBin</h1>
 
-**[My Portfolio Website](https://blubinportfolio.vercel.app/)**
+**About me**
+
+- 💼 Visit my website at [BLuBinWebsite](http://razorpay.com/)
+
 
 **<a href="https://blubinportfolio.vercel.app/">Visit my website!</a>**
 
