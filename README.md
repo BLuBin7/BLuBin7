@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm BLuBin</h1>
+<h1 align="center">Hi there, I'm BLuBin</h1>
 
 
 # About me :
-**💼 Visit my website at [BLuBinWebsite](https://blubinportfolio.vercel.app/)**
+** Visit my website at [BLuBinWebsite](https://blubinportfolio.vercel.app/)**
 
 **Languages:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
